@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726838632 source:c:\users\isousa\documents\metodologiasdedesenvolvimentosoftwere-10789-marco_tereso\git+github\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
