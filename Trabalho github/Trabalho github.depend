@@ -1,6 +1,14 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1726838632 source:c:\users\isousa\documents\metodologiasdedesenvolvimentosoftwere-10789-marco_tereso\git+github\trabalho-github\trabalho github\main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
+=======
+1726833026 source:c:\users\mduarte\desktop\trabalho github\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+>>>>>>> d4e7dfd19cdff1972eb6d3d3543d05a954dda75d
 
