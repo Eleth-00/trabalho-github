@@ -1,7 +1,33 @@
 # depslib dependency file v1.0
-1726833026 source:c:\users\mduarte\desktop\trabalho github\trabalho-github\trabalho github\main.c
+140736786388618 <<<<<<< HEAD
+
+1726833684 source:c:\users\tpaulo\desktop\trabalho de grupo\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1726837935 
+
+1726833684 D
+
+1726837935 source:c:\users\jmoreira\onedrive\ambiente de trabalho\proj1\git+github\trabalhogrupo\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1726838632 source:c:\users\isousa\documents\metodologiasdedesenvolvimentosoftwere-10789-marco_tereso\git+github\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1726838632 9250ebc3011dcd0a10fc43386caeb8b1f6d86
+
+1726841573 source:c:\users\mduarte\desktop\trabalho github\trabalho-github\trabalho github\main.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 	<locale.h>
+
+1726833026 7dfd19cdff1972eb6d3d3543d05a954dda75d
+
+1726833026 22e7a2a08af3bdb7102557cdd236645748d70
 
