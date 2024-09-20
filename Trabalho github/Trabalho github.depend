@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1726833026 source:c:\users\mduarte\desktop\trabalho github\trabalho-github\trabalho github\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
